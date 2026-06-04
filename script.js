@@ -42,7 +42,7 @@ const representatives = {
 };
 
 const firstRound = [
-  { room: 1, time: "12.09", a: "marga 21", b: "LETSGOFAMILY" },
+  { room: 1, time: "12.09", a: "marga 19", b: "LETSGOFAMILY" },
   { room: 2, time: "12.21", a: "SURCINN VVIP", b: "HEVEN 666" },
   { room: 3, time: "13.08", a: "NEX4PLUS+", b: "The tarik" },
   { room: 4, time: "13.23", a: "INVASION AB", b: "Volcano inti" },
