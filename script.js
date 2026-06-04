@@ -64,7 +64,7 @@ const firstRound = [
 // Contoh: 1: "LETSGOFAMILY" artinya pemenang Room 1 adalah LETSGOFAMILY.
 // Untuk yang belum main, biarkan kosong / jangan ditulis.
 const winners = {
-  1: "marga 21",
+  1: "marga 19",
   2: "SURCINN VVIP",
   3: "The tarik",
   4: "INVASION AB",
